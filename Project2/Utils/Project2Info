@@ -1,0 +1,4 @@
+Project #2: Vehicle Inventory management
+Customer: A car rental company
+
+A car rental company has a number of rental sites across Washington wants help tracking and maintaining their inventory.  Customers can reserve cars ahead of time, but the company does not have the ability to predict how many of each car type will be available on which dates at which locations.  Additionally, the company would like to offer customer incentives for cars that are less in demand or for customers to drive to locations that need more vehicles. Currently, inventory is managed manually, and changes are primarily made once an imbalance in stock has already appeared.  The company keeps a surplus in stock so that customers can get the type of car they requested.
