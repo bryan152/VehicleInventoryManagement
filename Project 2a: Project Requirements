@@ -1,0 +1,40 @@
+Summary
+In this project, your team will develop a comprehensive requirements doc for a customer who  is requesting a software product.  Your team will start with a general description of the project, and will need to turn it into a detailed list of requirements that could be used to design and implement the product.  You will use both your technical understanding and your communication with the "customer" to develop this list.
+
+This assignment will be done in your "Phase 2" groups.
+
+Projects
+Your team will be assigned one of the proposed projects, which you will use for projects 2a & 2b. See project descriptions for details on each project.
+
+Gathering requirements
+Requirements Brainstorming
+Your team should begin by using the customer's proposal to develop ideas of how to solve the customer's problems.  Generate a list of questions that you need to ask the customer.  Customers will oftentimes have a difficult time clearly articulating their needs, so giving them concrete options to choose between will help clarify their desires. Customers will also have a very limited understanding of technical aspects, so your team will need to bring your technical expertise to guide the direction of the project.  You may consider researching similar products to see the features and performance expectations.  
+
+Customer Communication
+I (Prof. Ewing) will be acting as the customer for this project.  I will be approaching this role from a non-technical standpoint, trying to behave like a customer would act for your scenario.
+
+Customer Meeting: You should meet with me to discuss the customer's business and requirements in-depth.   Your group must sign up on the CSS 360 Calendar for a 30 minute session (first come, first serve).  Since you will only get one chance to discuss at length with the customer, you should have a game plan with questions prepared and an idea of how you'll use your time.
+
+Email: Additionally, your group can email me up to 1x per day with questions.  I will spend a maximum of 5 minutes responding to each email, so you should limit the number of questions and make sure your questions are clear. Please use "[Customer Q]: Your group name" as the subject line.  I will respond within 24 hour of receipt.
+
+Functional & Non-functional Requirements
+Your requirements should include a complete list of all functional and non-functional requirements.  Functional requirements are descriptions of what the system should do. Non-functional requirements are overall constraints on the system such as reliability and security requirements, cost, and accessibility. 
+
+Requirements Document
+Project Summary
+Your document should begin with a brief summary of the project.  Describe the customer, the background of the customer's business, and the goals for the project.  This section should also describe the business problem this product will address, and any unique challenges the project faces.
+
+Requirements list
+The main portion of your document should be a list of requirements, organized by category and then priority.  You should determine the categories that make sense for your project (categories like User Interface, Performance, Cost, etc.).  Use priorities P0 (mandatory), P1 (important) and P2 (nice-to-have).
+
+Non-goals
+You should have a brief section indicating what the project scope will not entail.  This should include possible features that are closely related to the concept of the project, but will not be attempted at this time.
+
+User Stories
+For each of your P0 functional requirements, you should also write a user story describing how the feature would be used.
+
+What Comes Next
+In project 2b next week, your team will continue on the same project proposal.  In next week's project you will develop a design document, including a UI mockup and the definition of interfaces.  As you gather and prioritize requirements, start thinking about what information you will need in order to do this design.
+
+What to Turn In
+Your requirements document as a PDF or DOC file.
